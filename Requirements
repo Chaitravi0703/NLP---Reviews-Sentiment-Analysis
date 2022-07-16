@@ -1,0 +1,13 @@
+keras
+textblob
+bs4
+string
+nltk
+scipy
+tensorflow
+sklearn
+collections
+wordcloud
+requests
+re
+sys
